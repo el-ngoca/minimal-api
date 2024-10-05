@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MinimalApi.Entidades.Adm;
+using MinimalApi.Entidades.Veiculo;
 
 namespace MinimalAPIContexto;
 
@@ -13,6 +14,19 @@ public class DbContexto : DbContext
     }
 
     public DbSet<Administrador> Administradores {get; set; } = default!;
+    public DbSet<Veiculo> Veiculos {get;set;} = default!;
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Administrador>().HasData(
+            new Administrador {
+                Id = 1,
+                Email = "admin@teste.com",
+                Senha = "123456",
+                Perfil = "Adm"
+            }
+        );
+    }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
