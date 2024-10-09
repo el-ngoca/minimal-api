@@ -103,3 +103,11 @@
 /home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/berserker/Desktop/minimal-api/minimal-api/obj/Debug/net8.0/minimal-api.MvcApplicationPartsAssemblyInfo.cs
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/berserker/Desktop/minimal-api/minimal-api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
