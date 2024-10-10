@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Td7Fc+JqEYc=",
+  "dgSpecHash": "hE/NkmPm0S0=",
   "success": true,
-  "projectFilePath": "/home/berserker/Desktop/minimal-api/minimal-api/minimal-api.csproj",
+  "projectFilePath": "/home/berserker/Desktop/minimal-api/minimal-api/API/minimal-api.csproj",
   "expectedPackageFiles": [
     "/home/berserker/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/berserker/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.1/microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",

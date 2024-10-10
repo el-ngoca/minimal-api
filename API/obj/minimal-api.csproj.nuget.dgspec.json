@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/berserker/Desktop/minimal-api/minimal-api/minimal-api.csproj": {}
+    "/home/berserker/Desktop/minimal-api/minimal-api/API/minimal-api.csproj": {}
   },
   "projects": {
-    "/home/berserker/Desktop/minimal-api/minimal-api/minimal-api.csproj": {
+    "/home/berserker/Desktop/minimal-api/minimal-api/API/minimal-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/berserker/Desktop/minimal-api/minimal-api/minimal-api.csproj",
+        "projectUniqueName": "/home/berserker/Desktop/minimal-api/minimal-api/API/minimal-api.csproj",
         "projectName": "minimal-api",
-        "projectPath": "/home/berserker/Desktop/minimal-api/minimal-api/minimal-api.csproj",
+        "projectPath": "/home/berserker/Desktop/minimal-api/minimal-api/API/minimal-api.csproj",
         "packagesPath": "/home/berserker/.nuget/packages/",
-        "outputPath": "/home/berserker/Desktop/minimal-api/minimal-api/obj/",
+        "outputPath": "/home/berserker/Desktop/minimal-api/minimal-api/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/berserker/.nuget/NuGet/NuGet.Config"
